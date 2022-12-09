@@ -30,7 +30,6 @@
         "nodemon": "^2.0.20",
         "path": "^0.12.7",
         "rand-token": "^1.0.1",
-//        "socket.io": "^4.5.4",
         "validator": "^13.7.0"
     }
 }
